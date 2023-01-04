@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AIO-Bot<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Swift and OOP<br>⚡ Fun fact 21 Years old
+🔭 I’m currently working on AIO-Bot<br>🌱 I’m currently learning Secure Realtime Socket Communication<br>💬 Ask me about Swift and OOP<br>⚡ Fun fact 21 Years old
 
 
 ## 🌐 Socials:
