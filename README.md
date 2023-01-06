@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-<a href="discord:https://discordapp.com/users/213551786009559040r">
+<a href="discord:https://discordapp.com/users/213551786009559040">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
   </a>
 
