@@ -5,8 +5,8 @@
 ## 🌐 Socials:
 
 <a href="discord:https://discordapp.com/users/213551786009559040">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
-  </a>
+   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
+</a>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discord:https://discordapp.com/users/213551786009559040) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xv.ben_bra_nl.vx) 
