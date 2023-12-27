@@ -9,6 +9,16 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/IfCondition) 
 
 # 💻 Tech Stack:
+![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white)
+![IFTTT](https://img.shields.io/badge/IFTTT-%23000000.svg?style=for-the-badge&logo=ifttt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%23000000.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23000000.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
