@@ -8,36 +8,41 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xv.ben_bra_nl.vx) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/IfCondition) 
 
-# 💻 Tech Stack:
-![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white)
-![IFTTT](https://img.shields.io/badge/IFTTT-%23000000.svg?style=for-the-badge&logo=ifttt&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+
+# 📉 Database :
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23000000.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23000000.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-%23000000?style=for-the-badge&logo=mariadb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+
+# 📲 Technologies :
+![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white)
+![IFTTT](https://img.shields.io/badge/IFTTT-%23000000.svg?style=for-the-badge&logo=ifttt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23000000.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23000000.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-%23000000?style=for-the-badge&logo=postman&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-%23000000?style=for-the-badge&logo=node.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![SOCKETIO](https://img.shields.io/badge/Socket.IO-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%23000000.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+
+# 💻 Tech Stack :
 ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23000000.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python&logoColor=white) 
 ![Swift](https://img.shields.io/badge/swift-%23000000?style=for-the-badge&logo=swift&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-%23000000?style=for-the-badge&logo=.net&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23000000.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23000000.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-%23000000?style=for-the-badge&logo=mariadb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-%23000000?style=for-the-badge&logo=postman&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-%23000000?style=for-the-badge&logo=node.js&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%23000000.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![SOCKETIO](https://img.shields.io/badge/Socket.IO-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=white) 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NfIfCondition&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
