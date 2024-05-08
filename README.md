@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AIO-Bot<br>🌱 I’m currently learning Secure Realtime Socket Communication<br>💬 Ask me about Swift and OOP<br>⚡ Fun fact 22 Years old
+🔭 I’m currently working on Learning<br>🌱 I’m currently learning Secure Realtime Socket Communication<br>💬 Ask me about Swift and OOP<br>⚡ Fun fact 22 Years old
 
 
 ## 🌐 Socials:
@@ -9,7 +9,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/IfCondition) 
 
 
-# 📉 Database :
+# 📈 Database :
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23000000.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
