@@ -1,11 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on Learning<br>🌱 I’m currently learning Secure Realtime Socket Communication<br>💬 Ask me about Swift and OOP<br>⚡ Fun fact 22 Years old
+🔭 I’m currently working on Learning<br>
+🌱 I’m currently learning Secure Realtime Socket Communication<br>
+⚡ Fun fact 22 Years old
 
 
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/213551786009559040) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xv.ben_bra_nl.vx) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ifcondition_coding) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/IfCondition) 
 
 
