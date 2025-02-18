@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Learning<br>
+🔭 I am currently a team leader and developer<br>
 🌱 I’m currently learning Secure Realtime Socket Communication<br>
 ⚡ Fun fact 23 Years old
 
