@@ -1,7 +1,9 @@
-# 💫 About Me:
-🔭 I am currently a team -/ technical leader, developer and network engineer<br>
-🌱 I’m currently learning Secure Realtime Socket Communication<br>
-
+#💫 About Me:
+🔭 Currently working as a Technical Lead, Developer & Network Engineer<br>
+🛠️ Specialized in Network Architecture, Application Development & Infrastructure Solutions<br>  
+🌱 Currently learning Secure Realtime Socket Communication & advanced system security concepts<br>  
+⚡ Passionate about scalable backend systems, high-performance networking and clean software architecture<br>  
+🚀 Always interested in automation, modern technologies and building reliable solutions<br>
 
 
 ## 🌐 Socials:
